@@ -1,0 +1,206 @@
+.detalle_container{
+    display: flex;
+    flex-direction: column;
+}
+.detalle_logos{
+    width: 100%;
+    height: 119px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(to right, #2991f9 3%,#9700f6 49%);
+}
+.detalle_logo{
+    height: 100px;
+    margin-left: 20px;
+}
+.detalle_img_gocloud{
+    height: 232px;
+    margin-top: -63px;
+    filter: invert(100%) sepia(47%) saturate(0%) hue-rotate(83deg) brightness(107%) contrast(100%);
+}
+.detalle_img_logout{
+    filter: invert(100%) sepia(47%) saturate(0%) hue-rotate(83deg) brightness(107%) contrast(100%);
+}
+.detalle_logout{
+    width: 45px;
+    background-color: #ac56e3;
+    padding: 11px;
+    border-radius: 15px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.detalle_omnia{
+    width: 100%;
+    display: flex;
+    background: rgb(251,251,251);
+    background: linear-gradient(90deg, rgba(251,251,251,1) 0%, rgba(231,230,230,1) 100%);
+    justify-content: flex-end;
+}
+.detalle_p_omnia{
+    padding: 10px;
+    
+}
+.detalle_container2{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.detalle_titulo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #EC127A;
+}
+.detalle_container3{
+    display: flex;
+    background-color: #009ADC;
+    border-radius: 12px;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+    margin-bottom: 35px;
+}
+.detalle_subcontainer{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    font-size: 22px;
+}
+.detalle_containercards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.detalle_card{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.detalle_p_numero1{
+    font-size: 40px;
+    font-weight: 600;
+    color: #4578EE;
+}
+.detalle_line1 {
+    width: 100%;
+    background: #4578EE;
+    height: 15px;
+    border-radius: 25px;
+}
+.detalle_p_numero2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #03C6CB;
+}
+.detalle_line2 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #03C6CB;
+}
+.detalle_p_numero3{
+    font-size: 40px;
+    font-weight: 600;
+    color: #8C51E6;
+}
+.detalle_line3 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #8C51E6;
+}
+.detalle_p_numero4{
+    font-size: 40px;
+    font-weight: 600;
+    color: #F9A007;
+}
+.detalle_line4 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #F9A007;
+}
+.detalle_p_numero5{
+    font-size: 40px;
+    font-weight: 600;
+    color: #0197D8;
+}
+.detalle_line5 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #0197D8;
+}
+.detalle_p_numero6{
+    font-size: 40px;
+    font-weight: 600;
+    color: #C61930;
+}
+.detalle_line6 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #C61930;
+}
+.detalle_p_numero7{
+    font-size: 40px;
+    font-weight: 600;
+    color: #F40B7A;
+}
+.detalle_line7 {
+    width: 100%;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #F40B7A;
+}
+.detalle_p {
+    font-size: 25px;
+    font-weight: 400;
+    color: #7F858B;
+}
+.detalle_img {
+    width: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    filter: invert(97%) sepia(10%) saturate(4640%) hue-rotate(180deg) brightness(87%) contrast(105%);
+}
+.detalle_table{
+    border-collapse: collapse;
+    width: 100%;
+    border-bottom: 1px solid #B9BEE6;
+}
+.detalle_tr{
+    background-color: #B9BEE6;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    border-radius: 25px;
+}
+.detalle_thead{
+    padding: 15px;
+
+}
+.th1{
+    border-radius: 10px 0px 0px 10px;
+}
+.th7{
+    border-radius: 0px 10px 10px 0px;
+}
+.detalle_td{
+    padding: 10px;   
+    padding-bottom: 25px;   
+    padding-top: 25px; 
+    text-align: center;
+    font-size: 18px;
+
+
+}
