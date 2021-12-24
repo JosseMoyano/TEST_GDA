@@ -95,31 +95,31 @@ export default function Detalle () {
                                 <th className="detalle_thead th7">INTENTOS</th>
                             </tr>
                         <tr>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
+                            <td className="detalle_td">934082419</td>
+                            <td className="detalle_td">05 sep 2019</td>
+                            <td className="detalle_td">17:30pm</td>
+                            <td className="detalle_td">25seg</td>
+                            <td className="detalle_td">No iniciada</td>
+                            <td className="detalle_td">s2</td>
+                            <td className="detalle_td">1</td>
                         </tr>
                         <tr>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
+                            <td className="detalle_td">934082419</td>
+                            <td className="detalle_td">05 sep 2019</td>
+                            <td className="detalle_td">17:30pm</td>
+                            <td className="detalle_td">25seg</td>
+                            <td className="detalle_td">No iniciada</td>
+                            <td className="detalle_td">s2</td>
+                            <td className="detalle_td">0</td>
                         </tr>
                         <tr>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
-                            <td className="detalle_td">bla bla bla</td>
+                            <td className="detalle_td">934082419</td>
+                            <td className="detalle_td">05 sep 2019</td>
+                            <td className="detalle_td">17:30pm</td>
+                            <td className="detalle_td">25seg</td>
+                            <td className="detalle_td">No iniciada</td>
+                            <td className="detalle_td">s1</td>
+                            <td className="detalle_td">2</td>
                         </tr>
                     </table>
             </div>
